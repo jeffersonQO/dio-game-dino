@@ -2,4 +2,4 @@
 
 ### Projeto Dino Game
 
-![Dino_Game](C:\Users\Ryzen 5 1600af\Desktop\example.png)
+![img](https://raw.githubusercontent.com/celso-henrique/dio-dino-game/master/example.png)
